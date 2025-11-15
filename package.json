@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-ghost-path",
+	"name": "ghost-path",
 	"version": "1.0.0",
 	"description": "Turns your notes into full paths behind the scenes while keeping your editor view clean and simple.",
 	"main": "main.js",

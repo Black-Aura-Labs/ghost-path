@@ -1,5 +1,5 @@
 {
-  "id": "obsidian-ghost-path",
+  "id": "ghost-path",
   "name": "Ghost Path",
   "description": "Turns your notes into full paths behind the scenes while keeping your editor view clean and simple.",
   "version": "1.0.0",
@@ -7,6 +7,5 @@
   "author": "Fawzi Waly",
   "authorUrl": "https://github.com/Black-Aura-Labs",
 	"fundingUrl": "https://ko-fi.com/fawziwaly",
-  "main": "main.js",
 	"isDesktopOnly": false
 }
