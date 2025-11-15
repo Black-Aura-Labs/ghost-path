@@ -2,8 +2,10 @@
 
 **Ghost Path** plugin automatically converts simple links like `[[Note]]` into its full path `[[folder/subfolder/Note]]` inside the markdown file while visually *hiding* the path in editor, so you only see the clean `[[Note]]` you love.
 
-This gives you the best of both worlds:
-✨ Human-friendly links for writing
+![Ghost Path](Assets/Ghost%20Path.gif)
+
+This gives you the best of both worlds:  
+✨ Human-friendly links for writing  
 🔧 Path-accurate links for tools, scripts, and long-term compatibility
 
 ---
