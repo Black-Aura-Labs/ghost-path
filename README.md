@@ -2,10 +2,8 @@
 
 **Ghost Path** plugin automatically converts simple links like `[[Note]]` into its full path `[[folder/subfolder/Note]]` inside the markdown file while visually *hiding* the path in editor, so you only see the clean `[[Note]]` you love.
 
-
-
-This gives you the best of both worlds: 
-✨ Human-friendly links for writing 
+This gives you the best of both worlds:
+✨ Human-friendly links for writing
 🔧 Path-accurate links for tools, scripts, and long-term compatibility
 
 ---
@@ -34,16 +32,16 @@ Obsidian resolves links implicitly, which is great for writing but tricky for:
 
 # **Key Features**
 
-### **1. Automatic Path Expansion**
+## **1. Automatic Path Expansion**
 
 When you type `[[Note]]`, Ghost Path resolves and stores the full relative path:
 
 ```
-text shows:  [[Note]]
+text in editor shows:  [[Note]]
 file contains:  [[folder/subfolder/Note]]
 ```
 
-### **2. Hidden path rendering**
+## **2. Hidden path rendering**
 
 It preserves Obsidian’s clean writing experience and visual simplicity while adding:
 
@@ -57,11 +55,11 @@ It preserves Obsidian’s clean writing experience and visual simplicity while a
 
 writers stay focused; machines get accuracy.
 
-### **3. Works with nested folders**
+## **3. Works with nested folders**
 
 No matter how deep your structure goes, your note remains clear.
 
-### **4. Great for Exporting & Automation**
+## **4. Great for Exporting & Automation**
 
 Your vault becomes easier to:
 
@@ -75,13 +73,13 @@ Your vault becomes easier to:
 
 - Migrate to other note systems
 
-### **5. Setting toggle: Display short name**
+## **5. Setting toggle: Display short name**
 
 By turning this off you will see full paths in editor view as you write.
 
 ---
 
-### Current Limitations
+## Current Limitations
 
 - Editing the name of a folder or nested folder would reflect live for active tabs but for inactive tabs the note itself has to be reopened once.
 
@@ -96,7 +94,7 @@ By turning this off you will see full paths in editor view as you write.
 3. That's it! Start typing a link like `[[Your Note Name]]`.
 4. Once Obsidian's auto-complete suggests a file, press Enter. Ghost Path will convert the link to its full path and immediately hide the prefix.
 
-### Settings
+## Settings
 
 You can configure Ghost Path in the Obsidian settings panel.
 
